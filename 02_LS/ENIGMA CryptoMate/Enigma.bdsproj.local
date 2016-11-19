@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007.08.12 17:22:08.562.pas,C:\Documents and Settings\Lukáš Kúdela\Dokumenty\Borland Studio Projects\Unit1.pas=C:\Documents and Settings\Lukáš Kúdela\Dokumenty\Borland Studio Projects\Enigma.pas</Transaction>
+    <Transaction>2007.08.12 17:22:08.562.dfm,C:\Documents and Settings\Lukáš Kúdela\Dokumenty\Borland Studio Projects\Unit1.dfm=C:\Documents and Settings\Lukáš Kúdela\Dokumenty\Borland Studio Projects\Enigma.dfm</Transaction>
+    <Transaction>2007.08.12 17:22:30.187.pas,C:\Documents and Settings\Lukáš Kúdela\Dokumenty\Borland Studio Projects\Enigma.pas=C:\Documents and Settings\Lukáš Kúdela\Dokumenty\Borland Studio Projects\Enigma_.pas</Transaction>
+    <Transaction>2007.08.12 17:22:30.187.dfm,C:\Documents and Settings\Lukáš Kúdela\Dokumenty\Borland Studio Projects\Enigma.dfm=C:\Documents and Settings\Lukáš Kúdela\Dokumenty\Borland Studio Projects\Enigma_.dfm</Transaction>
+    <Transaction>2007.08.12 17:22:39.828.bdsproj,C:\Documents and Settings\Lukáš Kúdela\Dokumenty\Borland Studio Projects\Project1.bdsproj=C:\Documents and Settings\Lukáš Kúdela\Dokumenty\Borland Studio Projects\Enigma.bdsproj</Transaction>
+    <Transaction>2007.08.13 20:56:14.859.pas,C:\Documents and Settings\Lukáš Kúdela\Dokumenty\Borland Studio Projects\Unit2.pas=C:\Documents and Settings\Lukáš Kúdela\Dokumenty\Borland Studio Projects\About_.pas</Transaction>
+    <Transaction>2007.08.13 20:56:14.859.dfm,C:\Documents and Settings\Lukáš Kúdela\Dokumenty\Borland Studio Projects\Unit2.dfm=C:\Documents and Settings\Lukáš Kúdela\Dokumenty\Borland Studio Projects\About_.dfm</Transaction>
+    <Transaction>2007.08.13 20:56:43.625.pas,C:\Documents and Settings\Lukáš Kúdela\Dokumenty\Borland Studio Projects\About_.pas=C:\Documents and Settings\Lukáš Kúdela\Dokumenty\Borland Studio Projects\Generator_.pas</Transaction>
+    <Transaction>2007.08.13 20:56:43.625.dfm,C:\Documents and Settings\Lukáš Kúdela\Dokumenty\Borland Studio Projects\About_.dfm=C:\Documents and Settings\Lukáš Kúdela\Dokumenty\Borland Studio Projects\Generator_.dfm</Transaction>
+    <Transaction>2007.08.13 20:56:56.437.pas,C:\Documents and Settings\Lukáš Kúdela\Dokumenty\Borland Studio Projects\Unit3.pas=C:\Documents and Settings\Lukáš Kúdela\Dokumenty\Borland Studio Projects\About_.pas</Transaction>
+    <Transaction>2007.08.13 20:56:56.437.dfm,C:\Documents and Settings\Lukáš Kúdela\Dokumenty\Borland Studio Projects\Unit3.dfm=C:\Documents and Settings\Lukáš Kúdela\Dokumenty\Borland Studio Projects\About_.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
